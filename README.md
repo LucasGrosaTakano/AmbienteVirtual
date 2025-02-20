@@ -55,13 +55,13 @@ __2(x)__ [Memória DDR4 XPG GAMMIX D35, 8GB, 3200MHz, Black](https://www.terabyt
 
 [Mouse Trust GXT 108 Rava Illuminated Com fio](https://www.mercadolivre.com.br/social/meupcnet?matt_tool=14133480&forceInApp=true&ref=BAnaNTaq5JJ9vwkJLzaw4zM5s8O6%2BYulANyVQelNPEMS5pToudxPcEAHB6TpzR5BN1udDq%2Fw2jGyKS1m79c7OlSHlU17u9oI7pmGRMNxOb8zGCLIkhOiKXENdiRLeaRjNGfFq74N8j0BiyNMCyuEMDfYdwhaiNIILe%2FCBOcUsJo8es3uVj5slyYAqeesUOiQV5QYOw%3D%3D)
 
+#### Esses componentes são os ideais para fins educacionais. Este desktop possui bastante capacidade de armazenamento, processador com vídeo integrado para economizar o orçamento e um monitor confortável para uso.
+
 ```markdown
 Preço total: R$ 3.639,05
 
 Total no boleto: R$ 3.265,99
 ```
-#### Esses componentes são os ideais para fins educacionais. Este desktop possui bastante capacidade de armazenamento, processador com vídeo integrado para economizar o orçamento e um monitor confortável para uso.
-
 
 ## Escolha do Sistema operacional
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Ubuntu_16.04_LTS_Starting.gif)
