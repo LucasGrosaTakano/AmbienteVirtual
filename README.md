@@ -55,13 +55,13 @@ __2(x)__ [Memória DDR4 XPG GAMMIX D35, 8GB, 3200MHz, Black](https://www.terabyt
 
 [Mouse Trust GXT 108 Rava Illuminated Com fio](https://www.mercadolivre.com.br/social/meupcnet?matt_tool=14133480&forceInApp=true&ref=BAnaNTaq5JJ9vwkJLzaw4zM5s8O6%2BYulANyVQelNPEMS5pToudxPcEAHB6TpzR5BN1udDq%2Fw2jGyKS1m79c7OlSHlU17u9oI7pmGRMNxOb8zGCLIkhOiKXENdiRLeaRjNGfFq74N8j0BiyNMCyuEMDfYdwhaiNIILe%2FCBOcUsJo8es3uVj5slyYAqeesUOiQV5QYOw%3D%3D)
 
-#### Esses componentes são os ideais para fins educacionais. Este desktop possui bastante capacidade de armazenamento, processador com vídeo integrado para economizar o orçamento e um monitor com tamanho regular.
-
 ```markdown
 Preço total: R$ 3.639,05
 
 Total no boleto: R$ 3.265,99
 ```
+#### Esses componentes são os ideais para fins educacionais. Este desktop possui bastante capacidade de armazenamento, processador com vídeo integrado para economizar o orçamento e um monitor confortável para uso.
+
 
 ## Escolha do Sistema operacional
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Ubuntu_16.04_LTS_Starting.gif)
@@ -69,4 +69,18 @@ Total no boleto: R$ 3.265,99
 
 ## Manual de Instalação
 
+#### 1. Instale o VirtualBox ([Clique aqui](https://www.virtualbox.org/wiki/Downloads))
+
+#### 2. Após clicar no link, pressione o botão de aceitar os termos e baixe o arquivo no seu computador, como mostrado na imagem abaixo:
+![](https://private-user-images.githubusercontent.com/177403914/415296985-7a5ebf67-3f78-4657-9294-6909651156bc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAwNzgwMzcsIm5iZiI6MTc0MDA3NzczNywicGF0aCI6Ii8xNzc0MDM5MTQvNDE1Mjk2OTg1LTdhNWViZjY3LTNmNzgtNDY1Ny05Mjk0LTY5MDk2NTExNTZiYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyMFQxODU1MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mODI5OWZkOTYzMmE5YWYwMmVkNzhlZjczYWE5YjE1Zjg2MzhmNjIyZjA4Yzg4NGU5OTA3ZmMyN2Q0OTFkZDFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.fPi5P6hPrXHlauYIT70_nKwWb5GEP9h8eTmpa6LOp6A)
+
+#### 3. Abra o arquivo baixado para instalar o VirtualBox:
+![](https://private-user-images.githubusercontent.com/177403914/415303500-e8461b24-736b-4c33-86f4-10cb24be7a0e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAwNzgwMzcsIm5iZiI6MTc0MDA3NzczNywicGF0aCI6Ii8xNzc0MDM5MTQvNDE1MzAzNTAwLWU4NDYxYjI0LTczNmItNGMzMy04NmY0LTEwY2IyNGJlN2EwZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyMFQxODU1MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZDQ2MGFmMGVkNmMwZDU1NWY5MDQxNjc3MjY5NGMwNGQyNjkyZGYxOTNlYTFlMDNkYmIzZDg0NDcwODZiOGI2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xxd6SK-vrQgu39d3dK6sAvVQHUwsAIVqlBn8Pg8Yqq4)
+
+- #### Instale o sistema operacional Ubuntu ([Clique aqui](https://ubuntu.com/download/desktop)):
+![]()
+
+
+#### 4. com o VirtualBox aberto, selecione a opção “Novo”:
+![](https://private-user-images.githubusercontent.com/177403914/415304053-cd380b3a-7189-4e5e-b0a9-5735ee8bdcb4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAwNzgwMzcsIm5iZiI6MTc0MDA3NzczNywicGF0aCI6Ii8xNzc0MDM5MTQvNDE1MzA0MDUzLWNkMzgwYjNhLTcxODktNGU1ZS1iMGE5LTU3MzVlZThiZGNiNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyMFQxODU1MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZjAzOTYyZjg5MjZhZmQxNjgxODA1ZTdlZjI4NmQ3MzAzMzgyMWE1NWZjNGJiYmUyMmZlOTQzNjlmMzAxNjljJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Jk9NDD96nHrSB4cj5hu8bP2NjcCxkiSqc64loJCWM00)
 
