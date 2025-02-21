@@ -1,16 +1,3 @@
-Documentação Final (README.md)
-Roteiro do README:
-Introdução: Contexto e objetivos do projeto
-
-Levantamento de Requisitos: Descrição dos requisitos levantados para o computador físico e a máquina virtual
-
-Orçamento: Lista com os componentes, links e justificativas para a escolha com base no custo-benefício
-
-Escolha do Sistema Operacional: Justificativa e comparação entre as distribuições Linux pesquisadas
-
-Manual de Instalação: Inclusão do manual completo para a instalação do Linux na máquina virtual, com prints das etapas
-
-Considerações Finais: Lições aprendidas e sugestões de melhoria
 
 # Máquina Virtual
 
